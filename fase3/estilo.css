@@ -13,7 +13,7 @@
 
 }
 #fondo_inicio{
-    background-color:rgb(120, 183, 224);
+    background-color:rgb(141, 190, 27);
     text-align: center;
 }
 header {
@@ -55,7 +55,7 @@ header nav ul li:hover ul{
     text-align: center;
 }
 #fondo{
-    background-color:rgb(120, 183, 224) ;
+    background-color:rgb(141, 190, 27);
 }
 .centrado{
     text-align: center;
