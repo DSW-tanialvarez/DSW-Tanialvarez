@@ -72,3 +72,6 @@ header nav ul li:hover ul{
     text-align: center;
     font-size: 30px;
 }
+.colortabla{
+    border: rgb(46, 24, 107) 6px solid;
+}
